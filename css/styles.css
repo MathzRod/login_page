@@ -47,7 +47,7 @@ body{
   background: transparent;
   border: none;
   outline: none;
-  border: 2px solid var(---border-color);
+  border: 2px solid var(--border-color);
   border-radius: 40px;
   font-size: 16px;
   color: var(--text-color);
@@ -98,6 +98,14 @@ body{
   font-size: 16px;
   color: #333;
   font-weight: 600;
+  transition-duration: 0.8s ;
+  
+}
+
+.wrapper .btn:hover{
+  background: #9000a9;
+  color: #eeeeee;
+  transition: ease-in .8s ;
 }
 
 .wrapper .register-link{
