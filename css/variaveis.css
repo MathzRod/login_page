@@ -1,0 +1,7 @@
+:root{
+    --text-color: #fffbf7;
+    --tex-color-btn: #4c4b4a;
+    --shadow-border-color: rgba(0, 0, 0, .1);
+    --border-color: rgba(255,255,255,.2);
+    --background: url("/img/img.jpg");
+}
